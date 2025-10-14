@@ -1,4 +1,5 @@
-
+-- Database Constraints Laboratory Work
+-- Student: Tursynmamet Ayan, ID: 24B032074
 -- =====================================
 -- PART 1: CHECK Constraints
 -- =====================================
@@ -239,3 +240,4 @@ INSERT INTO order_details (order_id, product_id, quantity, unit_price) VALUES
 (1, 1, 1, 1200),
 (1, 2, 1, 50),
 (2, 2, 1, 50);
+
